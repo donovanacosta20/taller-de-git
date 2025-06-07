@@ -1,4 +1,5 @@
 # Curso de GIT, 2020
+# Curso de GIT, febrero
 
 Este proyecto contiene el curso de introduccion a GIT del AUla de Software Libre.
 
